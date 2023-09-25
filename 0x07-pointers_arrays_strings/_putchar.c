@@ -1,5 +1,3 @@
-_Putchar.c
-
 #include "main.h"
 #include <unistd.h>
 
